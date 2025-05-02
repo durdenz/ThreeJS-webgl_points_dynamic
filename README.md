@@ -1,4 +1,4 @@
-# ThreeJS Example - WebGL_Points_Dynamis
+# ThreeJS Example - WebGL_Points_Dynamic
 Repo of code for local execution and modification
 
 ## Reference:
